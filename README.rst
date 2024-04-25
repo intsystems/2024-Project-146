@@ -15,16 +15,15 @@
 
 .. class:: center
 
-    :Название исследуемой задачи: Мое название работы
-    :Тип научной работы: M1P/НИР/CoIS
-    :Автор: Имя Отчество Фамилия
-    :Научный руководитель: степень, Фамилия Имя Отчество
-    :Научный консультант(при наличии): степень, Фамилия Имя Отчество
+    :Название исследуемой задачи: Универсальные методы для стохастических вариационных неравенств
+    :Тип научной работы: M1P
+    :Автор: Климза Антон
+    :Научный руководитель: д.ф.-м.н. А.В. Гасников
 
 Abstract
 ========
 
-Purus sit amet luctus venenatis lectus magna fringilla. Condimentum id venenatis a condimentum vitae sapien. Auctor neque vitae tempus quam pellentesque nec nam aliquam. Eget egestas purus viverra accumsan in. Nam aliquam sem et tortor. Donec et odio pellentesque diam volutpat commodo. Odio pellentesque diam volutpat commodo sed egestas. Sit amet dictum sit amet justo. Pellentesque sit amet porttitor eget. Imperdiet sed euismod nisi porta lorem mollis aliquam ut. Quis varius quam quisque id diam vel quam elementum. Ornare lectus sit amet est placerat in. Vulputate dignissim suspendisse in est ante. Elit sed vulputate mi sit amet mauris. Egestas sed tempus urna et pharetra pharetra. Viverra tellus in hac habitasse platea dictumst vestibulum rhoncus.
+В данной статье рассматривается задача оптимизации стохастических вариационных неравенств. Мы предлагаем стохастический вариант универсального проксимального зеркального метода для решения задачи оптимизации. Получены оценки необходимого числа итераций для достижения заданного качества решения вариационного неравенства. Также, мы сравниваем полученный алгоритм с другими популярными оптимизаторами на задаче классификации по картинкам.
 
 Research publications
 ===============================
